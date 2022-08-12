@@ -1,0 +1,15 @@
+/Users/ekaterinakemenova/Desktop/Ed_C#/Hometask001/Task2/bin/Debug/net6.0/Task2
+/Users/ekaterinakemenova/Desktop/Ed_C#/Hometask001/Task2/bin/Debug/net6.0/Task2.deps.json
+/Users/ekaterinakemenova/Desktop/Ed_C#/Hometask001/Task2/bin/Debug/net6.0/Task2.runtimeconfig.json
+/Users/ekaterinakemenova/Desktop/Ed_C#/Hometask001/Task2/bin/Debug/net6.0/Task2.dll
+/Users/ekaterinakemenova/Desktop/Ed_C#/Hometask001/Task2/bin/Debug/net6.0/Task2.pdb
+/Users/ekaterinakemenova/Desktop/Ed_C#/Hometask001/Task2/obj/Debug/net6.0/Task2.csproj.AssemblyReference.cache
+/Users/ekaterinakemenova/Desktop/Ed_C#/Hometask001/Task2/obj/Debug/net6.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinakemenova/Desktop/Ed_C#/Hometask001/Task2/obj/Debug/net6.0/Task2.AssemblyInfoInputs.cache
+/Users/ekaterinakemenova/Desktop/Ed_C#/Hometask001/Task2/obj/Debug/net6.0/Task2.AssemblyInfo.cs
+/Users/ekaterinakemenova/Desktop/Ed_C#/Hometask001/Task2/obj/Debug/net6.0/Task2.csproj.CoreCompileInputs.cache
+/Users/ekaterinakemenova/Desktop/Ed_C#/Hometask001/Task2/obj/Debug/net6.0/Task2.dll
+/Users/ekaterinakemenova/Desktop/Ed_C#/Hometask001/Task2/obj/Debug/net6.0/refint/Task2.dll
+/Users/ekaterinakemenova/Desktop/Ed_C#/Hometask001/Task2/obj/Debug/net6.0/Task2.pdb
+/Users/ekaterinakemenova/Desktop/Ed_C#/Hometask001/Task2/obj/Debug/net6.0/Task2.genruntimeconfig.cache
+/Users/ekaterinakemenova/Desktop/Ed_C#/Hometask001/Task2/obj/Debug/net6.0/ref/Task2.dll
